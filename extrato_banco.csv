@@ -1,0 +1,11 @@
+data,lançamento,número do documento,valor,tipo do lançamento
+
+2024-04-01,Pix,12345,1000,entrada
+
+2024-04-02,Energia Elétrica,67890,-500,saída
+
+2024-04-03,Aplicação,23456,-2000,saída
+
+2024-04-04,Cheque,34567,-1500,saída
+
+2024-04-05,Resgate,45678,2500,entrada
